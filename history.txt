@@ -1,0 +1,11 @@
+commit 7546108b6b8ab16aa72d6f64d3882b0d33733baa
+Author: Brandon <siliang.lei@gmail.com>
+Date:   Thu Feb 9 01:13:54 2023 +0000
+
+    added intro to git files
+
+commit fff9119b42e43530a621cac93c11e5997cd9c687
+Author: Brandon <siliang.lei@gmail.com>
+Date:   Thu Feb 9 01:11:23 2023 +0000
+
+    added linux exercise text file
